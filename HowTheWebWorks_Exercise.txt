@@ -1,0 +1,35 @@
+1. What is HTTP
+
+- Hyper Text Transfer Protocol - let's users send and receive files from a server
+
+2. What is a URL?
+
+- Uniform Resource Locator - the address of a website
+
+3. What is DNS?
+
+- Domain Name System - the system that converts URLs into IP Addresses
+
+4. What is a query string?
+
+- A string of values added into the end of a URL, starting with ? and separated by &
+
+5. What are two HTTP verbs and how are they different?
+
+- GET fetches data from a server and doesn't alter it; POST fetches data similarly to GET but changes the data in some way
+
+6. What is an HTTP request?
+
+- A request from a user to a server using HTTP protocol
+
+7. What is an HTTP response?
+
+- A response from an HTTP request to a server
+
+8. What is an HTTP header? Give a couple examples of request and response headers you have seen.
+
+- 
+
+9. What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+
+- 
