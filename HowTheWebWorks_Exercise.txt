@@ -28,8 +28,8 @@
 
 8. What is an HTTP header? Give a couple examples of request and response headers you have seen.
 
-- 
+- An HTTP header adds information about requests and responses; Examples of request headers: Host, User-Agent, Accept, Accept-Language, Connection; Examples of response headers: Access-Control-Allow-Origin, Connection, Content-Type, Date
 
 9. What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
 
-- 
+- The browser uses DNS to change the URL into an IP address it can read, a request is made to that IP address, the server sends a response, the browser reads the response and creates a webpage, if there are more HTTP requests the browser then handles those
